@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexandr.tolkachyov@gmail.com
+	name = Aleksandr Tolkachev
